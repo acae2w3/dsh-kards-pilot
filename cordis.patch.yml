@@ -1,0 +1,7 @@
+# KARDS 悬浮球手柄 —— DSH bundle patch
+#
+# 一个 Host 行（注册 kards_windows / kards_screen / kards_act 三个工具）
+# 加一个 Client 行（package.json 里的 dsh.client，把悬浮球挂到 shell.overlay）。
+- insert:
+    - id: kards-pilot
+      name: '@local/kards-pilot'

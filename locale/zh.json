@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "KARDS 悬浮球手柄",
+    "description": "页面右下角的悬浮球：点一下就把当前会话唤醒进 KARDS 对局，智能体用 kards_windows / kards_screen / kards_act 真实地看屏幕、移鼠标、点牌、结束回合。"
+  }
+}

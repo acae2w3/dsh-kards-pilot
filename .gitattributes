@@ -1,0 +1,8 @@
+# Keep the PowerShell helper's line endings stable: Windows PowerShell 5.1 parses
+# these files, and helper/orb.ps1 additionally needs its UTF-8 BOM preserved.
+*.ps1 text eol=crlf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.svg text eol=lf

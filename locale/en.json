@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "KARDS Pilot Ball",
+    "description": "A floating ball in the corner of the page: one click wakes the current session into a KARDS match, and the agent plays with real eyes and hands through kards_windows / kards_screen / kards_act."
+  }
+}

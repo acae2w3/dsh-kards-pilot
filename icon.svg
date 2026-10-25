@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="KARDS pilot ball">
+  <defs>
+    <radialGradient id="ball" cx="34%" cy="26%" r="78%">
+      <stop offset="0%" stop-color="#3b8fe6"/>
+      <stop offset="52%" stop-color="#1a5fb4"/>
+      <stop offset="100%" stop-color="#0a2f5e"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="27" fill="url(#ball)"/>
+  <circle cx="32" cy="32" r="27" fill="none" stroke="#7fb6f0" stroke-opacity=".55" stroke-width="1.5"/>
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="3">
+    <circle cx="32" cy="32" r="11"/>
+    <path d="M32 5v9M32 50v9M5 32h9M50 32h9"/>
+  </g>
+  <circle cx="32" cy="32" r="3.2" fill="#ffffff"/>
+  <circle cx="48" cy="48" r="6" fill="#17a45f" stroke="#0a2f5e" stroke-width="2"/>
+</svg>
